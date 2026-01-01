@@ -5,5 +5,5 @@ How do i compile hyperroot?:
 1. git clone https://github.com/Ilikemycheesedrippybruhlol/HyperRoot
 2. cd HyperRoot
 3. cd Versions
-4. g++ HyperRootv2.cpp -o hyprroot
+4. g++ HyperRootv1.cpp -o hyprroot
 5. Run hyperroot by ./hyprroot and ur desired command you want to run as root
